@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "deploy": "node --version"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "core-js": "^3.6.5",
