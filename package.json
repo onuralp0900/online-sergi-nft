@@ -5,11 +5,11 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "node --version"
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "deploy": "^1.0.3",
     "firebase": "^8.2.6",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
