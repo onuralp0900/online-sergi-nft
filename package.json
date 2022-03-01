@@ -1,6 +1,7 @@
 {
   "name": "online-sergi-test",
   "version": "0.1.0",
+  "homepage": "htttps://onuralp0900.github.io/online-sergi-nft",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
